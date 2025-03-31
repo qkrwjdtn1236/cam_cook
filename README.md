@@ -52,7 +52,8 @@ COCO format으로 구성된 데이터를 제공하고 있습니다. 또한 아�
 식자재 인식한 것들을 pytorch_flutter 패키지를 기반으로 yolo 모델을 모바일에서 구동하여 식자재를 인식합니다.
 
 ## preview
-![Recording_2023-08-02-10-52-50-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/fc17603a-c7a0-4fd5-9ab0-54ca080841a2)
+![Recording_2023-08-02-10-52-50-ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/012c7067-2847-408d-b247-7cc2b4b79cbe)
+
 
 # TMI
 * 구현은 3일만에 만든..ㅎㅎ
